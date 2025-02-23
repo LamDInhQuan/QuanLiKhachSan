@@ -1,0 +1,7 @@
+D:\Học kì 2 năm 3\Lập trình hướng sự kiện\test\test\bin\Debug\test.exe.config
+D:\Học kì 2 năm 3\Lập trình hướng sự kiện\test\test\bin\Debug\test.exe
+D:\Học kì 2 năm 3\Lập trình hướng sự kiện\test\test\bin\Debug\test.pdb
+D:\Học kì 2 năm 3\Lập trình hướng sự kiện\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+D:\Học kì 2 năm 3\Lập trình hướng sự kiện\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Học kì 2 năm 3\Lập trình hướng sự kiện\test\test\obj\Debug\test.exe
+D:\Học kì 2 năm 3\Lập trình hướng sự kiện\test\test\obj\Debug\test.pdb
