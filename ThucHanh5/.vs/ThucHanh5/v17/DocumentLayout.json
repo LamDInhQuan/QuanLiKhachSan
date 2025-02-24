@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CloneTest5\\QuanLiKhachSan\\ThucHanh5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3EC469E-1287-4729-B8E7-16CE3E0F8245}|ThucHanh5\\ThucHanh5.csproj|D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CloneTest5\\QuanLiKhachSan\\ThucHanh5\\thuchanh5\\formtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D3EC469E-1287-4729-B8E7-16CE3E0F8245}|ThucHanh5\\ThucHanh5.csproj|d:\\h\u1ECDc k\u00EC 2 n\u0103m 3\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\clonetest5\\quanlikhachsan\\thuchanh5\\thuchanh5\\formtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D3EC469E-1287-4729-B8E7-16CE3E0F8245}|ThucHanh5\\ThucHanh5.csproj|solutionrelative:thuchanh5\\formtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3EC469E-1287-4729-B8E7-16CE3E0F8245}|ThucHanh5\\ThucHanh5.csproj|d:\\h\u1ECDc k\u00EC 2 n\u0103m 3\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\clonetest5\\quanlikhachsan\\thuchanh5\\thuchanh5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3EC469E-1287-4729-B8E7-16CE3E0F8245}|ThucHanh5\\ThucHanh5.csproj|D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CloneTest5\\QuanLiKhachSan\\ThucHanh5\\thuchanh5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3EC469E-1287-4729-B8E7-16CE3E0F8245}|ThucHanh5\\ThucHanh5.csproj|solutionrelative:thuchanh5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -140,8 +140,7 @@
               "RelativeToolTip": "ThucHanh5\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T14:39:13.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T14:39:13.733Z"
             }
           ]
         }
