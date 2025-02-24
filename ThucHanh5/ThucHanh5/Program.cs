@@ -16,7 +16,7 @@ namespace ThucHanh5
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new timKiemKhachHang());
+            Application.Run(new FormTest());
         }
     }
 }

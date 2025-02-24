@@ -1,14 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CLoneTest\\QuanLiKhachSan\\ThucHanh5\\",
+  "WorkspaceRootPath": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CloneTest3\\QuanLiKhachSan\\ThucHanh5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CLoneTest\\QuanLiKhachSan\\ThucHanh5\\ThucHanh5\\baoCao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ThucHanh5\\baoCao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D3EC469E-1287-4729-B8E7-16CE3E0F8245}|ThucHanh5\\ThucHanh5.csproj|D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CloneTest3\\QuanLiKhachSan\\ThucHanh5\\thuchanh5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3EC469E-1287-4729-B8E7-16CE3E0F8245}|ThucHanh5\\ThucHanh5.csproj|solutionrelative:thuchanh5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3EC469E-1287-4729-B8E7-16CE3E0F8245}|ThucHanh5\\ThucHanh5.csproj|D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CLoneTest\\QuanLiKhachSan\\ThucHanh5\\thuchanh5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3EC469E-1287-4729-B8E7-16CE3E0F8245}|ThucHanh5\\ThucHanh5.csproj|solutionrelative:thuchanh5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3EC469E-1287-4729-B8E7-16CE3E0F8245}|ThucHanh5\\ThucHanh5.csproj|d:\\h\u1ECDc k\u00EC 2 n\u0103m 3\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\clonetest3\\quanlikhachsan\\thuchanh5\\thuchanh5\\formtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3EC469E-1287-4729-B8E7-16CE3E0F8245}|ThucHanh5\\ThucHanh5.csproj|solutionrelative:thuchanh5\\formtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EC469E-1287-4729-B8E7-16CE3E0F8245}|ThucHanh5\\ThucHanh5.csproj|d:\\h\u1ECDc k\u00EC 2 n\u0103m 3\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\clonetest3\\quanlikhachsan\\thuchanh5\\thuchanh5\\formdanhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3EC469E-1287-4729-B8E7-16CE3E0F8245}|ThucHanh5\\ThucHanh5.csproj|solutionrelative:thuchanh5\\formdanhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EC469E-1287-4729-B8E7-16CE3E0F8245}|ThucHanh5\\ThucHanh5.csproj|d:\\h\u1ECDc k\u00EC 2 n\u0103m 3\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\clonetest3\\quanlikhachsan\\thuchanh5\\thuchanh5\\formkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3EC469E-1287-4729-B8E7-16CE3E0F8245}|ThucHanh5\\ThucHanh5.csproj|solutionrelative:thuchanh5\\formkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EC469E-1287-4729-B8E7-16CE3E0F8245}|ThucHanh5\\ThucHanh5.csproj|d:\\h\u1ECDc k\u00EC 2 n\u0103m 3\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\clonetest3\\quanlikhachsan\\thuchanh5\\thuchanh5\\crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{D3EC469E-1287-4729-B8E7-16CE3E0F8245}|ThucHanh5\\ThucHanh5.csproj|solutionrelative:thuchanh5\\crystalreport1.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EC469E-1287-4729-B8E7-16CE3E0F8245}|ThucHanh5\\ThucHanh5.csproj|d:\\h\u1ECDc k\u00EC 2 n\u0103m 3\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\clonetest3\\quanlikhachsan\\thuchanh5\\thuchanh5\\formdatalistkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3EC469E-1287-4729-B8E7-16CE3E0F8245}|ThucHanh5\\ThucHanh5.csproj|solutionrelative:thuchanh5\\formdatalistkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EC469E-1287-4729-B8E7-16CE3E0F8245}|ThucHanh5\\ThucHanh5.csproj|d:\\h\u1ECDc k\u00EC 2 n\u0103m 3\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\clonetest3\\quanlikhachsan\\thuchanh5\\thuchanh5\\timkiemkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3EC469E-1287-4729-B8E7-16CE3E0F8245}|ThucHanh5\\ThucHanh5.csproj|solutionrelative:thuchanh5\\timkiemkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CloneTest3\\QuanLiKhachSan\\ThucHanh5\\ThucHanh5\\baoCao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ThucHanh5\\baoCao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +42,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormTest.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CloneTest3\\QuanLiKhachSan\\ThucHanh5\\ThucHanh5\\FormTest.cs",
+              "RelativeDocumentMoniker": "ThucHanh5\\FormTest.cs",
+              "ToolTip": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CloneTest3\\QuanLiKhachSan\\ThucHanh5\\ThucHanh5\\FormTest.cs [Design]*",
+              "RelativeToolTip": "ThucHanh5\\FormTest.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T15:05:10.789Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrystalReport1.rpt",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CloneTest3\\QuanLiKhachSan\\ThucHanh5\\ThucHanh5\\CrystalReport1.rpt",
+              "RelativeDocumentMoniker": "ThucHanh5\\CrystalReport1.rpt",
+              "ToolTip": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CloneTest3\\QuanLiKhachSan\\ThucHanh5\\ThucHanh5\\CrystalReport1.rpt*",
+              "RelativeToolTip": "ThucHanh5\\CrystalReport1.rpt*",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPESURBVDhPrZRLaFxVHMZ/59w7k8lkJpmZTDJ5m1pJ2iY0JoWA0aKFUK1dtF2I2ampoggiSHAjaHFVRBA3FXSjuJFaqDbFCl1Z00JNMkmahGIe5lHznplM7rxn7sNFHp1JuvQPH/f\u002Bz\u002BX73fP4OPB/lmVZIr9v6XjhzKs9736WP/akWpieHLz63eUP9o8DqPmNq9TjP9r6bGfbYT\u002BKIhEU/A\u002BAfzdijHgrqvVcNn37\u002BvdfxrYia/nflfymrrGp7flTr1w42VaL112Mx1WEz\u002B3Am6dYMkvWspWdfK6zfT0ciW6GNlaSCW1zlyHzgQACkEKQSOXYjKWJ7FMyo\u002BN22jlxrK645\u002BJHl9u7ul9zl/kCu/4DwL0SIJ4kYD2a5MbALFoyy9me9z7tPv9G367tAHB31xQhUOS2sjLN71Y/q2KJ\u002BoCbrpYaOo9W0dVaw6G68uKSkmLHrr8AKIRASoFg\u002BymlJC5jPLDGuBm/zg9b3zIpBgn4SqjakcthQ5GPMfuAIHemKIQgYoSYNv5mSjzkYXKCX\u002BPX\u002BCX\u002BMxO5UeTO7IUoTIJUnJUOxVlZqjgrPcJe5jQtiWFapK0EwXSQgdQAhpKlyCzCMAxua7e4Ev6KSC6EJYwDQLX63NWXwGwD/KLS0Ta9YhGJ5ehP3GQmM4OOQTQVJbapoRs6mBAMD/H\u002BSi9fH7\u002BCoLgQ\u002BM2Hx52ZXM4T1nLVsysZ7\u002Bh8lks/hVA9TYQDc0QDQSyXiTQU0mMZMktpGqob6Xv9YyodFUREvAAo9djClBlf/LPOHbvTeVidaWlwsBzOMjvl59FYK\u002BH5p0mqcaQuMZZ02tUOLh57mxcrTuGyuQ4sWYnqZRvB0cl5IVhorPVWHGkoOe2wq8yuGYRXKxBZP3ZviOTWMk\u002Bl63mzs5e3unsRYvtAVsNxgsPDg2N/3bkFoMxO3GV24p6ZzNkSamnVM7XV5RdOd/hY2zLZ0EySIS/WP0ewe4J8/vInnGs7jyrlXrzWIilGgkODI/e3gXuxGb//G\u002BN3b2C3qZQU22muKaLBb8PpUPAWldN36BJNzlYsQMidiElQ5OOoFQDTCY1UYgshBaYliabAEJIyl4q3xI7fFkA17ZimubfcfB0AAugGbCZgcCbNUsRCURTq/ZLmgE5US7IcirO0EWNxXdtTKqsj84AF96GQiqZb9rnxxXSlXcXRWCFwq3rSXxQLLS5HE\u002BFNLYuRMjIpzcr3hdaXF3bfC4A1PsfI2RO\u002BLzI5/Z14It28Fc\u002BytBYfnZze\u002BHFqbm0opxuPHtzr14b/uJbL9\u002BXXf8LCnE6KaQGDAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-02-24T15:04:23.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormDanhSachKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CloneTest3\\QuanLiKhachSan\\ThucHanh5\\ThucHanh5\\FormDanhSachKhachHang.cs",
+              "RelativeDocumentMoniker": "ThucHanh5\\FormDanhSachKhachHang.cs",
+              "ToolTip": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CloneTest3\\QuanLiKhachSan\\ThucHanh5\\ThucHanh5\\FormDanhSachKhachHang.cs [Design]",
+              "RelativeToolTip": "ThucHanh5\\FormDanhSachKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T15:04:22.524Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormDataListKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CloneTest3\\QuanLiKhachSan\\ThucHanh5\\ThucHanh5\\FormDataListKhachHang.cs",
+              "RelativeDocumentMoniker": "ThucHanh5\\FormDataListKhachHang.cs",
+              "ToolTip": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CloneTest3\\QuanLiKhachSan\\ThucHanh5\\ThucHanh5\\FormDataListKhachHang.cs [Design]",
+              "RelativeToolTip": "ThucHanh5\\FormDataListKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T15:04:21.871Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CloneTest3\\QuanLiKhachSan\\ThucHanh5\\ThucHanh5\\FormKhachHang.cs",
+              "RelativeDocumentMoniker": "ThucHanh5\\FormKhachHang.cs",
+              "ToolTip": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CloneTest3\\QuanLiKhachSan\\ThucHanh5\\ThucHanh5\\FormKhachHang.cs [Design]",
+              "RelativeToolTip": "ThucHanh5\\FormKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T15:04:21.172Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "timKiemKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CloneTest3\\QuanLiKhachSan\\ThucHanh5\\ThucHanh5\\timKiemKhachHang.cs",
+              "RelativeDocumentMoniker": "ThucHanh5\\timKiemKhachHang.cs",
+              "ToolTip": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CloneTest3\\QuanLiKhachSan\\ThucHanh5\\ThucHanh5\\timKiemKhachHang.cs [Design]",
+              "RelativeToolTip": "ThucHanh5\\timKiemKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T15:04:20.088Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Bookmark",
@@ -30,11 +126,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "baoCao.cs [Design]",
-              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CLoneTest\\QuanLiKhachSan\\ThucHanh5\\ThucHanh5\\baoCao.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CloneTest3\\QuanLiKhachSan\\ThucHanh5\\ThucHanh5\\baoCao.cs",
               "RelativeDocumentMoniker": "ThucHanh5\\baoCao.cs",
-              "ToolTip": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CLoneTest\\QuanLiKhachSan\\ThucHanh5\\ThucHanh5\\baoCao.cs [Design]",
+              "ToolTip": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CloneTest3\\QuanLiKhachSan\\ThucHanh5\\ThucHanh5\\baoCao.cs [Design]",
               "RelativeToolTip": "ThucHanh5\\baoCao.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T14:39:54.885Z",
@@ -42,15 +138,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CLoneTest\\QuanLiKhachSan\\ThucHanh5\\ThucHanh5\\Program.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CloneTest3\\QuanLiKhachSan\\ThucHanh5\\ThucHanh5\\Program.cs",
               "RelativeDocumentMoniker": "ThucHanh5\\Program.cs",
-              "ToolTip": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CLoneTest\\QuanLiKhachSan\\ThucHanh5\\ThucHanh5\\Program.cs",
-              "RelativeToolTip": "ThucHanh5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "ToolTip": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\CloneTest3\\QuanLiKhachSan\\ThucHanh5\\ThucHanh5\\Program.cs*",
+              "RelativeToolTip": "ThucHanh5\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T14:39:13.733Z"
+              "WhenOpened": "2025-02-24T14:39:13.733Z",
+              "EditorCaption": ""
             }
           ]
         }
